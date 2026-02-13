@@ -27,12 +27,14 @@ This is the parent portal of the PWA , where only registered parents to the dayc
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cc229a18-8207-43fd-bc52-140958302eac" />
 
 ### Admin Portal:
-
-
-
-
-
-
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2ccb4121-134b-45c9-b991-95ca55fdba75" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b74b089e-f1af-491d-a0ce-f351f4b9c730" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0dc7c3c2-6b66-484b-8cc8-2b7843e8fd4b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/878a0d9b-5d96-4c77-b71f-6c2ecb7e24b3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/acc12ed5-89e9-4868-83f1-efc2dca769b8" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/637348d9-5aac-4254-80a8-95ff901ed2ab" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bbfa50dd-7d66-4cee-8b60-38331b95e6c9" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1e26b053-bd1e-4c9d-9f8a-55540443dfd2" />
 
 
 ## 👥 Team Members 
