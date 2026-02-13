@@ -3,7 +3,8 @@
 The Just Love Play And Learn Centre's progressive web app provides a user-friendly public website for visitors to effortlessly navigate. Additionally, a dedicated parent portal allows registered parents to access and view essential information uploaded from the daycare, fostering seamless communication. Furthermore, an admin portal is integrated, offering administrators a secure platform to upload resources, manage events, share images, and effectively communicate with parents.
 
 ## 📱 User Interface
-<img width="595" height="652" alt="image" src="https://github.com/user-attachments/assets/26253401-f1b3-47ab-9592-5bf27492b2eb" />
+### Website Interface
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/26253401-f1b3-47ab-9592-5bf27492b2eb" />
 
 ## 👥 Team Members 
 * [Nikita Davids](https://github.com/Nikita-Davids/)
