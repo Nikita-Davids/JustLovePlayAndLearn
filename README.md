@@ -4,7 +4,11 @@ The Just Love Play And Learn Centre's progressive web app provides a user-friend
 
 ## 📱 User Interface
 ### Website Interface
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/26253401-f1b3-47ab-9592-5bf27492b2eb" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/26253401-f1b3-47ab-9592-5bf27492b2eb" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/624e21e9-15b9-4bc5-8d61-93a9b51287c9" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ddacb05e-805a-4e61-b822-09f0278dfaf9" />
+
+
 
 ## 👥 Team Members 
 * [Nikita Davids](https://github.com/Nikita-Davids/)
