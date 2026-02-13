@@ -9,7 +9,7 @@ This is the website section of the PWA. When the user searches the link in a sea
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/26253401-f1b3-47ab-9592-5bf27492b2eb" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/624e21e9-15b9-4bc5-8d61-93a9b51287c9" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ddacb05e-805a-4e61-b822-09f0278dfaf9" />
-<br>
+<br/>
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/67d5280f-93fc-48be-84ea-74700bc141d6" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8ac579d9-a92e-424d-a808-7f3ef9590cba" />
 <img width="300 height="300" alt="image" src="https://github.com/user-attachments/assets/e913283a-7ecf-4863-8ce1-8b8325745427" />
